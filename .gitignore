@@ -1,0 +1,8 @@
+﻿/DocumentManagementEx/DocumentManagementEx/obj/Debug/net8.0/DocumentManagementEx.assets.cache
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.sln.ide
+
+# Ignore obj folders
+obj/
